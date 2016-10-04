@@ -8,7 +8,7 @@ I wanted to start writing down some goals so that I might actually
 accomplish them.  Writing things down is usually my first step to
 accomplishing them.  
 
-- Be more happy -> should be self explanatory
+- Be happier -> should be self explanatory
 - Try to be less negative
 - Build a keyboard
   - I have been reading the subreddit, /r/mechanicalkeyboards, and I
