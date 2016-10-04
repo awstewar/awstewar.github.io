@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Building My First Keyboard"
+snippet: "Just a small project I started to scratch an itch."
 ---
 I recently bought my first keyboard PCB from [techkeys](http://techkeys.us).
 It only supports six keys but you can program them to do almost anything.

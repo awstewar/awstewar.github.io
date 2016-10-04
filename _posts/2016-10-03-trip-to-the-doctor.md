@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Trip to the Doctor"
+snippet: "Just needed to rant about how hospitals can be a downer when they should be an upper."
 ---
 Today I went to the hospital with my wife to have a level 2 ultrasound.
 My wife is pregnant with our second child and we went for a routine
