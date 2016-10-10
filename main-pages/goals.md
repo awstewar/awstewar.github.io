@@ -32,3 +32,4 @@ accomplishing them.
   I would also like to eat healthier.  Kind of a two part goal.  With
   cooking for myself, it should be fairly easy to make sure the meals
   are healthy.
+- spend more time with friends
